@@ -1,0 +1,19 @@
+html{
+    font-size: 30px;
+}
+#div1{
+    height:4rem; 
+    /* 75vh; */
+    /* 200px; */
+    width: 6rem;
+
+    /* 100vw; */
+    background-color:red
+    /* rgba(25, 126, 200, 0.3) */
+    /* #a900ff; */
+}
+#div2{
+    height: 50%;
+    width: 50%;
+    background-color: cyan;
+}
